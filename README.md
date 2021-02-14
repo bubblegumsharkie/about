@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aljosha but on the web you can see my name as @bubblegumsharkie 🦈 
 - 👀 I’m interested in coding. A lot.
 - 🌱 I’m currently learning Java and all that comes with it — Hibernate, Postgres, Spring, RabbitMQ etc
+—  👨‍💻 Currently I work as a UI/UX Designer/Analyst but development is slowly becoming "more than a hobby"
 
 <!---
 bubblegumsharkie/bubblegumsharkie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
